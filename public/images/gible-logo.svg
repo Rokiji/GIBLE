@@ -1,0 +1,22 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gibleBg" x1="28" y1="20" x2="226" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="0.56" stop-color="#A78BFA" />
+      <stop offset="1" stop-color="#F472B6" />
+    </linearGradient>
+    <linearGradient id="gibleGlyph" x1="76" y1="72" x2="196" y2="198" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2E8F0" />
+      <stop offset="1" stop-color="#BAE6FD" />
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="52" fill="#0F172A" />
+  <rect x="20" y="20" width="216" height="216" rx="48" fill="url(#gibleBg)" />
+  <rect x="26" y="26" width="204" height="204" rx="44" fill="rgba(8, 14, 28, 0.86)" />
+  <path d="M77 77C77 66.5066 85.5066 58 96 58H160C170.493 58 179 66.5066 179 77V179C179 189.493 170.493 198 160 198H96C85.5066 198 77 189.493 77 179V77Z" fill="#0B1220"/>
+  <path d="M100 84C100 79.5817 103.582 76 108 76H151C155.418 76 159 79.5817 159 84V105C159 109.418 155.418 113 151 113H108C103.582 113 100 109.418 100 105V84Z" fill="url(#gibleGlyph)"/>
+  <path d="M100 132C100 127.582 103.582 124 108 124H130C134.418 124 138 127.582 138 132V172C138 176.418 134.418 180 130 180H108C103.582 180 100 176.418 100 172V132Z" fill="url(#gibleGlyph)"/>
+  <path d="M145 132C145 127.582 148.582 124 153 124H159C163.418 124 167 127.582 167 132V172C167 176.418 163.418 180 159 180H153C148.582 180 145 176.418 145 172V132Z" fill="#34D399"/>
+  <circle cx="84" cy="84" r="6" fill="#34D399"/>
+  <circle cx="172" cy="172" r="6" fill="#38BDF8"/>
+</svg>
